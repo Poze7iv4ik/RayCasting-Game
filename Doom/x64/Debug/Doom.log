@@ -1,0 +1,29 @@
+﻿  Doom.cpp
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(31,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(31,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(39,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(39,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(25,19): warning C4101: yo: неиспользованная локальная переменная
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(25,15): warning C4101: xo: неиспользованная локальная переменная
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(57,13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(59,21): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(62,21): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(70,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(76,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(109,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(115,40): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(149,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(175,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(178,25): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(184,17): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(186,25): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(189,25): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(210,23): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(212,29): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(217,23): warning C4305: +=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(219,29): warning C4305: -=: усечение из "double" в "float"
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(224,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(225,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(231,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Msi\source\repos\Doom\Doom\Doom.cpp(232,23): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Doom.vcxproj -> C:\Users\Msi\source\repos\Doom\x64\Debug\Doom.exe
